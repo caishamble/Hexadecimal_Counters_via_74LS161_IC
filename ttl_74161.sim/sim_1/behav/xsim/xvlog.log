@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/ece230/Vivado/ttl_74161/ttl_74161.srcs/sources_1/new/ttl_74161.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ttl_74161
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/ece230/Vivado/ttl_74161/ttl_74161.srcs/sim_1/new/ttl_74161_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ttl_74161_tb

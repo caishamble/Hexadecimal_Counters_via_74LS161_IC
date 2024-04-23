@@ -1,0 +1,16 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Programs/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 9cb6282b58cf4ec8b884486fb6a07b01 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot ttl_74161_tb_behav xil_defaultlib.ttl_74161_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "M:/ece230/Vivado/ttl_74161/ttl_74161.srcs/sources_1/new/ttl_74161.v" Line 3. Module ttl_74161 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "M:/ece230/Vivado/ttl_74161/ttl_74161.srcs/sources_1/new/ttl_74161.v" Line 3. Module ttl_74161 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ttl_74161
+Compiling module xil_defaultlib.ttl_74161_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot ttl_74161_tb_behav
